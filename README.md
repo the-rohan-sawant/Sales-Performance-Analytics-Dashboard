@@ -31,5 +31,9 @@ Link :- https://excelx.com/practice-data/sales-retail/
 
 • Designed an interactive dashboard using slicers and proper layout alignment to enable dynamic analysis and decision-making.
 
+## Dashboard
+
+https://github.com/the-rohan-sawant/Sales-Performance-Analytics-Dashboard/blob/main/SalesPerformanceDashboard.jpg
+
 
 
