@@ -22,6 +22,10 @@ Link :- https://excelx.com/practice-data/sales-retail/
 
 • How can management track sales performance from one dashboard instead of multiple reports?
 
+## Dashboard Interaction 
+
+<a href="https://github.com/the-rohan-sawant/Sales-Performance-Analytics-Dashboard/blob/main/SalesPerformanceDashboard.jpg">View Dashboard</a>
+
 ## Process 
 • Collected and cleaned raw sales data, ensuring proper formatting and structured data for analysis.
 
@@ -33,7 +37,7 @@ Link :- https://excelx.com/practice-data/sales-retail/
 
 ## Dashboard
 
-https://github.com/the-rohan-sawant/Sales-Performance-Analytics-Dashboard/blob/main/SalesPerformanceDashboard.jpg
+![SalesPerformanceDashboard](https://github.com/user-attachments/assets/33b5996b-8db3-4740-87cb-c76d87302798)
 
 
 
