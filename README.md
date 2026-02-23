@@ -1,16 +1,25 @@
 # Sales Performance Analytics Dashboard (Interactive Dashboard Created Using MS Excel)
 ## Project Objective
 To design an interactive Excel-based dashboard that transforms raw sales transaction data into meaningful business insights, enabling analysis of regional performance, product contribution, salesperson effectiveness, customer segments, and sales trends for better data-driven decision-making.
+
 ## Dataset Used
 Link :- https://excelx.com/practice-data/sales-retail/
 
 ## Questions (KPIs)
 • Which region has the highest sales?
+
 • Which products are selling the most?
+
 • Who are the top salespersons based on sales value?
+
 • How are sales changing month by month?
+
 • Which customer type contributes more to overall sales?
+
 • What is the overall sales performance?
+
 • How can sales data be quickly analyzed using filters?
+
 • How can management track sales performance from one dashboard instead of multiple reports?
+
 
