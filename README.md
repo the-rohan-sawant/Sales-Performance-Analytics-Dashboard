@@ -22,4 +22,11 @@ Link :- https://excelx.com/practice-data/sales-retail/
 
 • How can management track sales performance from one dashboard instead of multiple reports?
 
+## Process 
+• Collected and cleaned raw sales data, ensuring proper formatting and structured data for analysis.
+• Built pivot tables to analyze sales performance by region, product, salesperson, customer type, and time trends.
+• Created KPI cards and visual charts to represent key business metrics in an easy-to-understand format.
+• Designed an interactive dashboard using slicers and proper layout alignment to enable dynamic analysis and decision-making.
+
+
 
